@@ -3,6 +3,7 @@ filetype indent on
 
 set autoread
 set ruler
+set paste
 
 set ignorecase
 set smartcase
