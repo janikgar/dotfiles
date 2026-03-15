@@ -24,7 +24,6 @@
         zsh
         oh-my-zsh
         go-task
-        nix-info
       ];
     };
   };
